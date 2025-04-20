@@ -136,10 +136,6 @@ Report bugs through GitHub issues with:
 - [ ] Family sharing
 - [ ] Integration with banking APIs
 
-## 📧 Support
-
-For support questions, please use GitHub discussions or reach out to our support team.
-
 ---
 
 <div align="center">
