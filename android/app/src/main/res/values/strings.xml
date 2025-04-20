@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Track It All</string>
+    <string name="title_activity_main">Track It All</string>
+    <string name="package_name">com.lovable.trackitall</string>
+    <string name="custom_url_scheme">com.lovable.trackitall</string>
+</resources>
